@@ -11,4 +11,5 @@ By leveraging the power of blockchain technology and Metamask integration, w3sig
 # Web site
 You can try our solution follow this [link](https://w3sign.app/)
 
-<img width="1440" alt="Screenshot 2023-06-27 at 11 13 02 AM" src="https://github.com/dl-w3sign/profile/assets/94745242/1309ab0d-f7da-407a-ada4-c291ac4ee1ab">
+![image](https://github.com/dl-w3sign/.github/assets/94745242/cce0e59d-b9e7-490e-b301-8e05db98b148)
+
